@@ -24,3 +24,13 @@ This repository contains practical experiments performed as part of the Software
 - GitHub
 - Visual Studio Code
 - Python
+## Experiment 26
+
+This experiment demonstrates how to clone a GitHub repository and edit files locally using Visual Studio Code.
+
+**Status:** File modified locally.
+## Experiment 28 - Collaborator Update
+
+This section was added by a collaborator to demonstrate pulling changes from GitHub.
+
+Collaborator Status: Changes successfully updated.
