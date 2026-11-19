@@ -28,8 +28,8 @@ This repository contains practical experiments performed as part of the Software
 
 This experiment demonstrates cloning a GitHub repository
 and modifying files locally using Git and Visual Studio Code.
-## Experiment 27
+## Experiment 27 - Git Commit and Push
 
-This experiment demonstrates staging, committing, and pushing changes to GitHub using Git commands.
+This experiment demonstrates how to stage, commit, and push modified files to a GitHub repository.
 
-Commit Message: Updated README
+The changes are tracked using Git version control.
