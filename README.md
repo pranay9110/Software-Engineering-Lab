@@ -24,3 +24,7 @@ This repository contains practical experiments performed as part of the Software
 - GitHub
 - Visual Studio Code
 - Python
+## Experiment 26
+
+This experiment demonstrates cloning a GitHub repository
+and modifying files locally using Git and Visual Studio Code.
