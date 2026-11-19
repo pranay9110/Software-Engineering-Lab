@@ -34,3 +34,10 @@ This experiment demonstrates how to clone a GitHub repository and edit files loc
 This section was added by a collaborator to demonstrate pulling changes from GitHub.
 
 Collaborator Status: Changes successfully updated.
+This experiment demonstrates cloning a GitHub repository
+and modifying files locally using Git and Visual Studio Code.
+## Experiment 27 - Git Commit and Push
+
+This experiment demonstrates how to stage, commit, and push modified files to a GitHub repository.
+
+The changes are tracked using Git version control.
